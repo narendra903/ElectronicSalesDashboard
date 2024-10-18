@@ -1,0 +1,121 @@
+CustomerID,FirstName,LastName,City,State,ZipCode,Gender,DateOfBirth
+CUST001,Megan,Chang,Lucknow,Uttar Pradesh,96966,Female,1960-09-26
+CUST002,Tammy,Tucker,Chennai,Tamil Nadu,96964,Male,2005-04-01
+CUST003,Michael,Snow,Ahmedabad,Gujarat,96963,Female,1983-01-08
+CUST004,Juan,Campos,Lucknow,Uttar Pradesh,96969,Female,1997-03-02
+CUST005,Vanessa,Patel,Bengaluru,Karnataka,96969,Female,2002-02-05
+CUST006,Kyle,Blair,Bengaluru,Karnataka,96970,Female,1974-08-24
+CUST007,Anita,Gomez,Bengaluru,Karnataka,96965,Female,1988-02-13
+CUST008,Robin,Levy,Kolkata,West Bengal,96967,Female,1980-01-17
+CUST009,Adrienne,Brown,Mumbai,Maharashtra,96968,Female,2002-10-06
+CUST010,Christopher,Larsen,Pune,Maharashtra,96970,Male,1988-10-22
+CUST011,Cheryl,Clayton,Jaipur,Rajasthan,96965,Male,1970-07-03
+CUST012,Mark,Harrell,Jaipur,Rajasthan,96963,Female,2002-10-24
+CUST013,Jeffrey,Pratt,Kolkata,West Bengal,96962,Female,1997-05-07
+CUST014,Seth,Miller,Delhi,Delhi,96965,Male,2000-10-19
+CUST015,Whitney,Burns,Chennai,Tamil Nadu,96964,Male,1985-04-03
+CUST016,Jasmine,Kelley,Ahmedabad,Gujarat,96968,Male,1968-07-19
+CUST017,Lauren,Payne,Delhi,Delhi,96964,Female,1980-02-26
+CUST018,Caitlyn,Cruz,Hyderabad,Telangana,96969,Male,1970-06-01
+CUST019,Ivan,Underwood,Chennai,Tamil Nadu,96960,Male,1988-03-17
+CUST020,Diane,Alvarez,Delhi,Delhi,96961,Male,1991-05-17
+CUST021,David,Hernandez,Bengaluru,Karnataka,96960,Male,1999-03-27
+CUST022,Rachael,Leblanc,Ahmedabad,Gujarat,96968,Female,1991-08-09
+CUST023,Mary,Warren,Bengaluru,Karnataka,96968,Female,1997-10-02
+CUST024,Melissa,Jacobson,Jaipur,Rajasthan,96969,Female,1998-05-29
+CUST025,Robert,Hill,Kolkata,West Bengal,96967,Male,1990-06-27
+CUST026,Wendy,Stark,Jaipur,Rajasthan,96965,Male,1962-10-01
+CUST027,Chloe,Tucker,Delhi,Delhi,96970,Male,1974-11-20
+CUST028,James,Smith,Jaipur,Rajasthan,96964,Male,1964-06-01
+CUST029,Jeffrey,Norton,Bengaluru,Karnataka,96965,Female,1979-04-01
+CUST030,Bryan,Logan,Kolkata,West Bengal,96963,Male,1960-12-19
+CUST031,Audrey,Kent,Delhi,Delhi,96968,Female,1987-09-13
+CUST032,Charles,Martinez,Kolkata,West Bengal,96963,Male,1987-11-25
+CUST033,Barbara,Myers,Hyderabad,Telangana,96965,Female,1998-10-26
+CUST034,Darren,Jacobs,Kolkata,West Bengal,96963,Male,2004-12-03
+CUST035,Jackson,Martinez,Mumbai,Maharashtra,96963,Male,1993-09-12
+CUST036,Bruce,Shelton,Lucknow,Uttar Pradesh,96968,Male,1979-03-23
+CUST037,Craig,Green,Jaipur,Rajasthan,96963,Male,1962-04-01
+CUST038,Kevin,Graham,Hyderabad,Telangana,96960,Female,1982-12-20
+CUST039,Benjamin,Garcia,Chennai,Tamil Nadu,96966,Female,1968-05-13
+CUST040,Michael,Dennis,Hyderabad,Telangana,96969,Male,1966-12-05
+CUST041,Emily,Levy,Mumbai,Maharashtra,96960,Male,1996-08-25
+CUST042,Eric,Martin,Lucknow,Uttar Pradesh,96968,Male,1970-10-30
+CUST043,Candice,Ramos,Bengaluru,Karnataka,96962,Female,1959-06-06
+CUST044,Erin,Mccullough,Kolkata,West Bengal,96968,Female,2002-11-01
+CUST045,Deborah,Price,Delhi,Delhi,96970,Male,1970-11-03
+CUST046,Ann,Smith,Chennai,Tamil Nadu,96961,Female,1974-12-02
+CUST047,Brandon,Campbell,Bengaluru,Karnataka,96963,Female,1995-05-19
+CUST048,Timothy,Bishop,Jaipur,Rajasthan,96970,Female,1976-01-14
+CUST049,Stacey,Schultz,Hyderabad,Telangana,96969,Female,1965-02-23
+CUST050,Kyle,Goodman,Lucknow,Uttar Pradesh,96970,Male,1962-09-02
+CUST051,Brooke,Hale,Chennai,Tamil Nadu,96962,Female,1970-04-15
+CUST052,Dana,Gray,Lucknow,Uttar Pradesh,96970,Male,1986-01-24
+CUST053,Robert,Morales,Kolkata,West Bengal,96969,Female,1978-11-14
+CUST054,Eileen,Williams,Hyderabad,Telangana,96967,Female,1961-11-11
+CUST055,Jacqueline,Griffin,Pune,Maharashtra,96967,Female,2002-05-19
+CUST056,Cassandra,Smith,Chennai,Tamil Nadu,96960,Female,1982-07-15
+CUST057,Larry,Owens,Chennai,Tamil Nadu,96966,Female,1967-10-27
+CUST058,Yvonne,Schultz,Delhi,Delhi,96961,Female,1998-12-29
+CUST059,David,Smith,Kolkata,West Bengal,96970,Male,1978-11-01
+CUST060,Aaron,Smith,Hyderabad,Telangana,96960,Female,2005-11-05
+CUST061,Emma,Salazar,Delhi,Delhi,96963,Male,1964-07-02
+CUST062,Debra,Russo,Mumbai,Maharashtra,96964,Male,1991-11-05
+CUST063,Ian,Alvarez,Kolkata,West Bengal,96966,Male,1988-12-02
+CUST064,Andrew,Sloan,Jaipur,Rajasthan,96961,Female,2000-02-21
+CUST065,Dennis,Meyer,Ahmedabad,Gujarat,96970,Male,1989-10-02
+CUST066,Darin,Moore,Kolkata,West Bengal,96960,Female,1960-10-28
+CUST067,Jamie,Green,Chennai,Tamil Nadu,96965,Male,2004-03-24
+CUST068,Sheena,Browning,Delhi,Delhi,96960,Female,1999-06-03
+CUST069,Susan,Lawson,Jaipur,Rajasthan,96967,Female,1992-12-27
+CUST070,Raven,Bowman,Hyderabad,Telangana,96965,Male,2000-08-15
+CUST071,Gregory,Bennett,Delhi,Delhi,96964,Male,1959-03-22
+CUST072,Edward,Cook,Hyderabad,Telangana,96965,Female,1993-04-13
+CUST073,Matthew,Oliver,Delhi,Delhi,96960,Male,1971-09-27
+CUST074,Edward,Silva,Ahmedabad,Gujarat,96965,Male,1977-09-29
+CUST075,Amy,Carter,Pune,Maharashtra,96967,Female,1993-11-10
+CUST076,Sarah,Parker,Chennai,Tamil Nadu,96968,Male,1993-10-08
+CUST077,Kevin,Houston,Hyderabad,Telangana,96964,Male,1978-09-13
+CUST078,Cory,Kerr,Chennai,Tamil Nadu,96967,Male,1974-12-22
+CUST079,Lauren,Burnett,Lucknow,Uttar Pradesh,96961,Female,1981-10-16
+CUST080,Holly,Simmons,Lucknow,Uttar Pradesh,96964,Male,1974-11-17
+CUST081,Gloria,Moore,Kolkata,West Bengal,96962,Female,1988-11-17
+CUST082,Nicholas,Villegas,Hyderabad,Telangana,96970,Male,1962-12-19
+CUST083,Lindsey,Gonzalez,Kolkata,West Bengal,96963,Female,1961-09-24
+CUST084,Alan,Long,Ahmedabad,Gujarat,96968,Male,1972-09-15
+CUST085,Samantha,Kramer,Chennai,Tamil Nadu,96970,Male,1969-03-22
+CUST086,Christopher,Robinson,Jaipur,Rajasthan,96964,Male,1986-11-20
+CUST087,Garrett,Lee,Pune,Maharashtra,96961,Female,1961-11-10
+CUST088,Michelle,Miles,Bengaluru,Karnataka,96968,Male,1980-06-21
+CUST089,Erica,Wilson,Jaipur,Rajasthan,96966,Male,1971-02-08
+CUST090,Danielle,Shea,Chennai,Tamil Nadu,96963,Male,1988-09-19
+CUST091,Daniel,Ellis,Bengaluru,Karnataka,96965,Female,1985-01-08
+CUST092,Edward,Hinton,Delhi,Delhi,96967,Female,1965-12-01
+CUST093,Richard,Frazier,Bengaluru,Karnataka,96968,Male,1982-07-29
+CUST094,Sally,Morris,Delhi,Delhi,96967,Female,2006-09-16
+CUST095,Cynthia,Baxter,Ahmedabad,Gujarat,96968,Male,1988-01-24
+CUST096,Jeffery,Peterson,Hyderabad,Telangana,96965,Female,1998-01-24
+CUST097,Austin,Hernandez,Hyderabad,Telangana,96964,Male,1987-09-20
+CUST098,Eric,Gray,Chennai,Tamil Nadu,96964,Female,1993-04-07
+CUST099,Lindsay,Jones,Bengaluru,Karnataka,96961,Male,1983-08-03
+CUST100,Ruth,Jones,Mumbai,Maharashtra,96962,Female,1960-09-29
+CUST101,Alexis,Anthony,Kolkata,West Bengal,96965,Male,2000-03-01
+CUST102,Lauren,Melton,Bengaluru,Karnataka,96967,Female,2005-04-15
+CUST103,William,Santana,Pune,Maharashtra,96968,Male,1960-05-29
+CUST104,Christopher,Bauer,Ahmedabad,Gujarat,96968,Female,1995-03-04
+CUST105,Vicki,Burgess,Bengaluru,Karnataka,96963,Female,1972-09-12
+CUST106,Rachel,Butler,Jaipur,Rajasthan,96967,Female,1999-05-19
+CUST107,Teresa,Lawson,Bengaluru,Karnataka,96963,Male,1999-08-29
+CUST108,Lauren,Sandoval,Mumbai,Maharashtra,96960,Female,1994-05-08
+CUST109,Kevin,Hudson,Chennai,Tamil Nadu,96965,Male,1961-12-11
+CUST110,Michelle,Hahn,Chennai,Tamil Nadu,96964,Male,1995-11-16
+CUST111,Patrick,Reyes,Kolkata,West Bengal,96962,Female,1989-07-24
+CUST112,David,Mitchell,Jaipur,Rajasthan,96965,Female,1961-06-17
+CUST113,Barry,Butler,Hyderabad,Telangana,96967,Male,2001-07-06
+CUST114,Carolyn,Miller,Delhi,Delhi,96962,Female,1997-09-08
+CUST115,Michael,Johnson,Bengaluru,Karnataka,96967,Female,1977-05-10
+CUST116,Brandon,Ruiz,Bengaluru,Karnataka,96962,Male,1959-10-07
+CUST117,Carmen,Anderson,Lucknow,Uttar Pradesh,96965,Female,1963-11-06
+CUST118,Andrea,Reed,Bengaluru,Karnataka,96966,Male,1996-05-25
+CUST119,Kimberly,Rodriguez,Ahmedabad,Gujarat,96960,Female,1988-01-30
+CUST120,Tanner,Chen,Hyderabad,Telangana,96965,Female,1990-01-07
