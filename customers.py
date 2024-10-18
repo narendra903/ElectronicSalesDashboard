@@ -37,7 +37,7 @@ def generate_customers(num):
     
     return customers
 
-# Generate 80 customers
+# Generate 120 customers
 customers = generate_customers(120)
 
 # Create a DataFrame

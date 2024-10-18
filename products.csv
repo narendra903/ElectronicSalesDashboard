@@ -1,0 +1,81 @@
+ProductID,ProductName,Category,Brand,Price,StockQuantity
+PROD001,Dell Three,Headphones,Samsung,547.3,12
+PROD002,LG Image,Smartwatches,HP,560.69,81
+PROD003,Dell Son,Headphones,Dell,448.49,44
+PROD004,Sony Voice,Cameras,LG,756.1,83
+PROD005,Xiaomi Kitchen,Speakers,Asus,1100.48,16
+PROD006,HP Amount,Headphones,Sony,1916.35,11
+PROD007,Xiaomi Event,Speakers,Samsung,1446.36,70
+PROD008,Asus Much,Mobile Phones,OnePlus,201.8,12
+PROD009,Lenovo Mention,Cameras,Asus,1040.31,34
+PROD010,Sony Interview,Smartwatches,Xiaomi,1255.47,89
+PROD011,OnePlus Why,Headphones,Asus,1219.14,93
+PROD012,LG Step,Laptops,LG,1984.5,34
+PROD013,Dell Themselves,Laptops,Asus,711.6,49
+PROD014,Dell Floor,Speakers,Sony,929.04,82
+PROD015,LG Me,Televisions,Samsung,342.8,78
+PROD016,Xiaomi Help,Headphones,Lenovo,919.69,95
+PROD017,Apple Past,Smartwatches,LG,604.42,30
+PROD018,Lenovo Wait,Tablets,Dell,1422.1,75
+PROD019,Samsung Whatever,Mobile Phones,Samsung,707.54,59
+PROD020,Dell Discover,Smartwatches,Dell,1761.4,96
+PROD021,Sony Mother,Tablets,Lenovo,1964.13,12
+PROD022,LG Chair,Smartwatches,OnePlus,1775.79,60
+PROD023,Samsung Father,Laptops,Asus,273.13,10
+PROD024,Samsung Challenge,Speakers,Sony,364.68,83
+PROD025,HP Someone,Speakers,Lenovo,1928.61,90
+PROD026,Dell Beyond,Speakers,Sony,400.87,64
+PROD027,HP Present,Smartwatches,OnePlus,108.19,54
+PROD028,Asus Successful,Tablets,HP,1390.22,33
+PROD029,Apple Enough,Tablets,Xiaomi,1338.03,63
+PROD030,Xiaomi Where,Cameras,Lenovo,1592.21,52
+PROD031,HP No,Headphones,Samsung,1273.08,86
+PROD032,Samsung Season,Headphones,Lenovo,1696.07,77
+PROD033,Lenovo Take,Laptops,Samsung,522.08,19
+PROD034,Samsung Play,Mobile Phones,Apple,954.66,66
+PROD035,HP Week,Headphones,Dell,1746.56,85
+PROD036,Sony Choice,Laptops,Xiaomi,574.73,75
+PROD037,Sony Force,Smartwatches,Apple,697.92,66
+PROD038,LG Bit,Smartwatches,Sony,1895.42,48
+PROD039,Lenovo Show,Cameras,LG,588.46,58
+PROD040,Samsung Back,Cameras,Apple,756.99,54
+PROD041,LG Way,Smartwatches,Samsung,1986.97,54
+PROD042,Sony To,Cameras,LG,1299.87,79
+PROD043,OnePlus Return,Headphones,HP,1422.85,35
+PROD044,LG Give,Mobile Phones,OnePlus,936.15,24
+PROD045,Asus Marriage,Tablets,Apple,483.69,13
+PROD046,LG Opportunity,Headphones,Lenovo,296.53,23
+PROD047,Dell Blood,Speakers,Lenovo,1345.96,36
+PROD048,Samsung Health,Tablets,OnePlus,976.03,87
+PROD049,Lenovo Leader,Speakers,Dell,1304.91,99
+PROD050,Xiaomi Four,Televisions,OnePlus,615.41,19
+PROD051,Sony Popular,Mobile Phones,Asus,170.27,17
+PROD052,Apple Push,Speakers,Apple,171.36,76
+PROD053,Asus While,Mobile Phones,Xiaomi,1450.91,80
+PROD054,Lenovo Democratic,Tablets,HP,1157.55,100
+PROD055,LG Old,Cameras,Apple,1764.83,60
+PROD056,Sony Me,Speakers,Apple,161.38,46
+PROD057,Lenovo Level,Televisions,Lenovo,741.19,53
+PROD058,Samsung Tree,Smartwatches,Lenovo,1761.07,48
+PROD059,Asus Near,Speakers,HP,1613.48,52
+PROD060,Lenovo Ever,Mobile Phones,HP,319.38,78
+PROD061,Asus Assume,Headphones,Sony,1734.28,31
+PROD062,Dell Support,Smartwatches,Lenovo,522.68,29
+PROD063,Apple Why,Cameras,Sony,304.91,17
+PROD064,Apple Official,Laptops,Samsung,1077.03,68
+PROD065,LG Whole,Smartwatches,HP,1456.57,68
+PROD066,Apple Address,Mobile Phones,OnePlus,318.97,14
+PROD067,LG Better,Cameras,Samsung,164.01,85
+PROD068,Sony Serve,Tablets,Apple,227.99,37
+PROD069,Dell Though,Cameras,Sony,453.16,78
+PROD070,Lenovo Inside,Mobile Phones,Asus,554.8,58
+PROD071,Dell See,Speakers,Lenovo,1410.87,30
+PROD072,Sony Thank,Cameras,Samsung,1211.28,13
+PROD073,Xiaomi Still,Speakers,LG,239.62,23
+PROD074,OnePlus Relate,Televisions,Dell,1220.86,92
+PROD075,Sony Process,Televisions,HP,262.85,89
+PROD076,Dell Ability,Cameras,LG,481.59,25
+PROD077,Lenovo Population,Cameras,LG,693.14,11
+PROD078,LG Minute,Headphones,OnePlus,421.12,69
+PROD079,LG Their,Headphones,Sony,996.53,39
+PROD080,Dell Trip,Laptops,Lenovo,802.14,23
